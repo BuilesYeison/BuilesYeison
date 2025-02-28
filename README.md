@@ -1,10 +1,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BuilesYeison.BuilesYeison)
-
 </p>
-<div size='20px'> Hi! My name is Yeison Builes. Software frontend developer with knowledge in UI/UX design, experience in automation software development, bilingual(Spanish - English), excellent leader and teamwork. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Yeison Builes. Software Developer. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
@@ -12,11 +10,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My personal portfolio
+- 🔭 I’m currently working at Experimentality Labs
 
-- 🌱 I’m currently learning Angular JS 
+- 🌱 I’m constantly learning about new technologies
 
-- 👯 I’m looking to collaborate on Tech articles, web frontend projects or UI/UX design projects
+- 👯 I’m looking to collaborate with big tech companies
 
 
 - 💬 Talk to me about Ambitious, interactive and creative projects that will have a great impact tech world; frontend, UI/UX design 
